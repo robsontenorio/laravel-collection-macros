@@ -119,7 +119,7 @@ Laravel Collection Macros is licenced under the MIT License (MIT). Please see th
 [link-license]:   https://opensource.org/licenses/MIT
 [link-packagist]: https://packagist.org/packages/werxe/laravel-collection-macros
 
-[icon-travis]:    https://travis-ci.org/werxe/laravel-collection-macros.svg?branch=2.x
+[icon-travis]:    https://travis-ci.org/werxe/laravel-collection-macros.svg?branch=3.x
 [icon-license]:   https://poser.pugx.org/werxe/laravel-collection-macros/license
 [icon-version]:   https://poser.pugx.org/werxe/laravel-collection-macros/version
 [icon-downloads]: https://poser.pugx.org/werxe/laravel-collection-macros/downloads
